@@ -1,0 +1,4 @@
+#Wed May 31 13:03:00 MSK 2023
+base.0=/Users/Abeli/flutter/flutter_working/New_async/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

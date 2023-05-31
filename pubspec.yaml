@@ -1,0 +1,34 @@
+name: surf_flutter_study_jam_2023
+description: Surf Flutter Study Jam 2023.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.6 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^5.1.1
+  hive: ^2.2.3
+  pdfx: ^2.3.0
+  cupertino_icons: ^1.0.2
+  flutter_bloc: ^8.1.2
+  validators: ^3.0.0
+  path_provider: ^2.0.14
+  uuid: ^3.0.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  hive_generator: ^2.0.0
+  build_runner: ^2.3.3
+  json_serializable:
+  freezed: ^2.3.2
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
